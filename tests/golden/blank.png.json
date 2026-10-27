@@ -1,0 +1,33 @@
+{
+  "aspect_delta": 0.000423,
+  "background_mode": "color",
+  "centering_delta_px": null,
+  "content_box_px": null,
+  "coverage_ratio": 0.0,
+  "edge_coverage": {
+    "bottom": 0.0,
+    "left": 0.0,
+    "right": 0.0,
+    "top": 0.0
+  },
+  "effective_dpi": 150.22,
+  "image_px": {
+    "height": 263,
+    "width": 338
+  },
+  "margins_px": null,
+  "reasons": [
+    "CONTENT_EMPTY"
+  ],
+  "required_px": {
+    "target": [
+      225,
+      175
+    ],
+    "warn": [
+      338,
+      263
+    ]
+  },
+  "status": "fail"
+}

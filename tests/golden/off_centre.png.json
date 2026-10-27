@@ -1,0 +1,46 @@
+{
+  "aspect_delta": 0.000423,
+  "background_mode": "color",
+  "centering_delta_px": {
+    "x": -49,
+    "y": 0
+  },
+  "content_box_px": [
+    40,
+    40,
+    200,
+    223
+  ],
+  "coverage_ratio": 0.3293,
+  "edge_coverage": {
+    "bottom": 0.0,
+    "left": 0.0,
+    "right": 0.0,
+    "top": 0.0
+  },
+  "effective_dpi": 150.22,
+  "image_px": {
+    "height": 263,
+    "width": 338
+  },
+  "margins_px": {
+    "bottom": 40,
+    "left": 40,
+    "right": 138,
+    "top": 40
+  },
+  "reasons": [
+    "OFF_CENTER"
+  ],
+  "required_px": {
+    "target": [
+      225,
+      175
+    ],
+    "warn": [
+      338,
+      263
+    ]
+  },
+  "status": "warn"
+}
