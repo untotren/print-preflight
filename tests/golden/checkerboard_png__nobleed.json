@@ -1,0 +1,17 @@
+{
+  "status": "pass",
+  "effective_dpi": 150.0,
+  "aspect_delta": 0.0,
+  "coverage_ratio": 1.0,
+  "centering_delta_px": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "edge_coverage": {
+    "top": 0.5,
+    "right": 0.4705,
+    "bottom": 0.5,
+    "left": 0.5294
+  },
+  "reasons": []
+}
