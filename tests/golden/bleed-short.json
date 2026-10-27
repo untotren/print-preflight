@@ -1,0 +1,19 @@
+{
+  "status": "fail",
+  "effective_dpi": 120.0,
+  "aspect_delta": 0.0,
+  "coverage_ratio": 1.0,
+  "centering_delta_px": {
+    "x": 5.0,
+    "y": 0.0
+  },
+  "edge_coverage": {
+    "top": 0.981481,
+    "right": 1.0,
+    "bottom": 0.981481,
+    "left": 0.666666
+  },
+  "reasons": [
+    "BLEED_INCOMPLETE"
+  ]
+}
