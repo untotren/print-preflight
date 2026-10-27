@@ -1,0 +1,19 @@
+{
+  "status": "fail",
+  "effective_dpi": 99.54,
+  "aspect_delta": 0.004545,
+  "coverage_ratio": 1.0,
+  "centering_delta_px": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "edge_coverage": {
+    "top": 1.0,
+    "right": 1.0,
+    "bottom": 1.0,
+    "left": 1.0
+  },
+  "reasons": [
+    "DPI_BELOW_TARGET"
+  ]
+}
