@@ -1,0 +1,10 @@
+{
+  "print_width_in": 4,
+  "print_height_in": 6,
+  "dpi_target": 70,
+  "dpi_warn": 80,
+  "bleed_in": 0.125,
+  "safe_margin_in": 0.125,
+  "aspect_tolerance": 0.01,
+  "edge_coverage_min": 0.9
+}

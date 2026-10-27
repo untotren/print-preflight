@@ -1,0 +1,49 @@
+{
+  "status": "warn",
+  "effective_dpi": 80.0,
+  "aspect_delta": 0.0,
+  "coverage_ratio": 1.0,
+  "centering_delta_px": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "edge_coverage": {
+    "top": 0.5294,
+    "right": 0.52,
+    "bottom": 0.5294,
+    "left": 0.52
+  },
+  "reasons": [
+    "EDGE_COVERAGE_LOW"
+  ],
+  "image": {
+    "width_px": 340,
+    "height_px": 500
+  },
+  "required_px": {
+    "target": {
+      "width": 298,
+      "height": 438
+    },
+    "warn": {
+      "width": 340,
+      "height": 500
+    }
+  },
+  "content_box_px": [
+    0,
+    0,
+    340,
+    500
+  ],
+  "edge_band_px": {
+    "x": 10,
+    "y": 10
+  },
+  "must_bleed": [
+    "top",
+    "right",
+    "bottom",
+    "left"
+  ]
+}
