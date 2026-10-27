@@ -1,0 +1,11 @@
+{
+  "aspect_delta": null,
+  "centering_delta_px": null,
+  "coverage_ratio": null,
+  "edge_coverage": null,
+  "effective_dpi": 99.556,
+  "reasons": [
+    "DPI_BELOW_TARGET"
+  ],
+  "status": "fail"
+}
