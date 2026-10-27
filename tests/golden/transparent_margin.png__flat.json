@@ -1,0 +1,43 @@
+{
+  "aspect_delta": 0.0,
+  "centering_delta_px": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "content_box": [
+    10,
+    10,
+    215,
+    315
+  ],
+  "coverage_ratio": 0.855043,
+  "edge_coverage": {
+    "bottom": 0.0,
+    "left": 0.0,
+    "right": 0.0,
+    "top": 0.0
+  },
+  "effective_dpi": 50.0,
+  "image": {
+    "format": "PNG",
+    "height_px": 325,
+    "mode": "RGBA",
+    "width_px": 225
+  },
+  "must_bleed": false,
+  "reasons": [
+    "SAFE_MARGIN_VIOLATION"
+  ],
+  "required_px": {
+    "target": {
+      "height": 260,
+      "width": 180
+    },
+    "warn": {
+      "height": 325,
+      "width": 225
+    }
+  },
+  "schema_version": 1,
+  "status": "warn"
+}

@@ -1,0 +1,15 @@
+{
+  "blank.png": "0d42bb9977e9223759d0ca95f045898774cd4ea0ecd3899c0853bfee8deaf952",
+  "bordered.png": "2b7c8746deaba3bde793df869b57838d16ba2a0239f94bf41ad734037ee10c2e",
+  "checkerboard.png": "1e3ed991314c7ad4d17b929682d57c8689e4441e7a8bd27b72ccff158c3ab494",
+  "checkerboard.tif": "1e3ed991314c7ad4d17b929682d57c8689e4441e7a8bd27b72ccff158c3ab494",
+  "off_centre.png": "a26f82a9901398392a610517e12afa2704bc79d2730788355bf1c38f085ac286",
+  "palette_transparent.png": "425411fae2c3ecbc74093104d1be8d676e4ad20ab5388c8954ee32141fc36ec5",
+  "solid.jpg": "661c16b0704bf06f6ba11c87c9ee34fd5df0df1a7dae9beb976971c36b03f63f",
+  "solid.png": "661c16b0704bf06f6ba11c87c9ee34fd5df0df1a7dae9beb976971c36b03f63f",
+  "solid_cmyk.tif": "20879a70108eccf810797758306df68cdf9ebb9c80ddd8571a67fc0def7e6961",
+  "solid_lowres.png": "426774877a6e64df2c88cca174275d57dbb8265df6b5234be0ef2602d1aa9903",
+  "solid_square.png": "ac908bdfb9b5f7a57ab8877e3f22c9b0b3fe2985aa97671cd4df0a4c1b9176ff",
+  "solid_tiny.png": "164738f832804d6cbfd8f562523d9d31a07ba17f307117d04431897bca83f38c",
+  "transparent_margin.png": "cc794467a0f8d1214bf2b87e4f7ae339b3702ff27ed82fe1cc00d35a0ac3b6c4"
+}
