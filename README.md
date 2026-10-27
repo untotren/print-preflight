@@ -1,2 +1,1 @@
-# print-preflight
-Public clean-room utility
+A deterministic raster preflight library and command-line interface for print-ready artwork reports.
